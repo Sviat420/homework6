@@ -30,3 +30,28 @@ text-align: center;
   margin-right: 30px;
 }
 
+.card img {
+  margin-left: 35px;
+  margin-right: 35px;
+  width: 130px;
+  height: 130px;
+
+}
+.card h3 { margin-top: 10px;
+  font-family: Roboto;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.card p {
+  margin-top: 10px;
+  font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    color: #000000;
+}
